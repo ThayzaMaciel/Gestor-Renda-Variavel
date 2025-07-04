@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1751568161657,
+      "tag": "0000_smiling_justice",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1751592810146,
+      "tag": "0001_open_mulholland_black",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1751593259655,
+      "tag": "0002_rainy_khan",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1751594638221,
+      "tag": "0003_freezing_silver_samurai",
+      "breakpoints": true
+    }
+  ]
+}
