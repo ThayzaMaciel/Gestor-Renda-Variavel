@@ -1,5 +1,5 @@
 # Processo seletivo do itau - legal
-- [ ] Modelagem de Banco de Dados
+- [x] Modelagem de Banco de Dados
 - [ ] Índices e Performance
 - [ ] Aplicação em .NET
 - [ ] Lógica de Preço Médio
@@ -19,7 +19,22 @@
 - [ ] Posicao
   
 # repository
-- [ ] contrato de cada
+- [ ] Usuario
+- [ ] Ativo
+- [ ] Operacao
+- [ ] Cotacao
+- [ ] Posicao
 
 # servicos de cada um
-- [ ] fazer o serviço de cada
+- [ ] Usuario
+- [ ] Ativo
+- [ ] Operacao
+- [ ] Cotacao
+- [ ] Posicao
+  
+# fazer schema das entidades
+- [x] Usuario
+- [x] Ativo
+- [x] Operacao
+- [x] Cotacao
+- [x] Posicao
