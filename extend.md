@@ -12,22 +12,22 @@
 - [ ] Frontend
 
 # entidades 
-- [ ] Usuario
+- [x] Usuario
 - [ ] Ativo
 - [ ] Operacao
 - [ ] Cotacao
 - [ ] Posicao
   
 # repository
-- [ ] Usuario
-- [ ] Ativo
+- [x] Usuario
+- [x] Ativo
 - [ ] Operacao
-- [ ] Cotacao
+- [x] Cotacao
 - [ ] Posicao
 
 # servicos de cada um
-- [ ] Usuario
-- [ ] Ativo
+- [x] Usuario
+- [x] Ativo
 - [ ] Operacao
 - [ ] Cotacao
 - [ ] Posicao

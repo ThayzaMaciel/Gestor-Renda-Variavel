@@ -5,7 +5,7 @@ import { usersTable } from '@/config/db/schema/user.js'
 import { assetsTable } from '@/config/db/schema/assets.js';
 
   
-const db = drizzle(process.env.DATABASE_URL!);
+export const db = drizzle(process.env.DATABASE_URL!);
 
 
 async function test() {
